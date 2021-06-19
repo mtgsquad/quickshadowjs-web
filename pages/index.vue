@@ -7,7 +7,7 @@
       </h1>
       <div class="links">
         <a
-          href="https://npmjs.com/package/quickshadow.js"
+          href="https://npmjs.com/package/quickshadow"
           target="_blank"
           rel="noopener noreferrer"
           class="button--white"
